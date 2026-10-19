@@ -1,13 +1,5 @@
 {
-  "name": "",
-  "version": "",
-  "contactEmailAddress": "friggityrs@gmail.com",
-  "hasRibbonIcon": true,
-  "hasSettingsIcon": true,
-  "requiredDependencies": {
-    "prettyui" : 6398181
-  },
-  "optionalDependencies": {},
-  "requiredPermissions": [],
-  "optionalPermissions": []
+  "name": "Sarc-Azzanadra",
+  "version": "1.0.0",
+  "contactEmailAddress": "friggityrs@gmail.com"
 }
