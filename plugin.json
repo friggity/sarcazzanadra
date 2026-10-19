@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "version": "",
+  "contactEmailAddress": "friggityrs@gmail.com",
+  "hasRibbonIcon": true,
+  "hasSettingsIcon": true,
+  "requiredDependencies": {
+    "prettyui" : 6398181
+  },
+  "optionalDependencies": {},
+  "requiredPermissions": [],
+  "optionalPermissions": []
+}
