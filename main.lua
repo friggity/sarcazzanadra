@@ -3,7 +3,6 @@
 --Store player object reference and flags for having surged
 local playerObj = PlayerList.Self()
 local bonkBank = require("bonklines")
-local resoBank = require("resolines")
 local lastTick = false
 local surgeTick = false
 local surgePos = playerObj.coordGrid
@@ -19,7 +18,6 @@ end
 
 ---Function to check for surging a single tile
 local function getBonked()
-    local bonkCheck = false
     local pos = playerObj.coordGrid
     --Get abs of differences in X and Y coords
     local xComp = math.abs(surgePos.localX - pos.localX)
